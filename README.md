@@ -101,6 +101,7 @@ A React-based dApp enables each role to interact with the service. The goal is t
 
 <details>
   <summary>MiniPay Flow Diagram</summary>
+  
   ![alt text](ReadMeAssets/miniPayFlow.drawio.svg "MiniPay Flow")
 </details>
 
